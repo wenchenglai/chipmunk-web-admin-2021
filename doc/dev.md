@@ -1,0 +1,1 @@
+jsconfig.json file is used to instruct the IDE to know the root path of compilation
